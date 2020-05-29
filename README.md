@@ -1,1 +1,1 @@
-php-dbcrud-read-delete
+php-hotel-crud
